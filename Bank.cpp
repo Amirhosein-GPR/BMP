@@ -52,7 +52,7 @@ int main(){
                 break;
             break;
             default :
-                cout << "Can't open the file!";
+                cout << "Can't open the file! aaaaaaa";
         }
     }while (!key);
 }
